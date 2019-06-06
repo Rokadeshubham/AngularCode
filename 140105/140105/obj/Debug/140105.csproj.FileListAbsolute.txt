@@ -1,0 +1,15 @@
+C:\Users\shubhamr1\source\repos\140105\140105\bin\Debug\140105.exe.config
+C:\Users\shubhamr1\source\repos\140105\140105\bin\Debug\140105.exe
+C:\Users\shubhamr1\source\repos\140105\140105\bin\Debug\140105.pdb
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\140105.csprojAssemblyReference.cache
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.DisplayAllProduct.resources
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.Properties.Resources.resources
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\140105.csproj.GenerateResource.cache
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\140105.csproj.CoreCompileInputs.cache
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\140105.exe
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\140105.pdb
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.ProductProject.resources
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.AddCategory.resources
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.AddProduct.resources
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.SearchByDate.resources
+C:\Users\shubhamr1\source\repos\140105\140105\obj\Debug\_140105.PlaceOrder.resources

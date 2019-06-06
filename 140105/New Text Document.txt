@@ -1,0 +1,36 @@
+body {
+    font-family: "Comic Sans MS";
+    overflow-x:hidden;
+}
+
+#uiNavBar {
+    display: block;
+}
+
+#nav-tr {
+    display: block;
+}
+
+.container {
+    float: left;
+    margin-left: 5%;
+}
+
+.nav-link {
+    width: 120px;
+}
+
+.search {
+    display: inline-block;
+    margin-left: 8px;
+    /* btn {
+        max-height: 18px;
+        max-width: 18px;
+        margin-left: 2px;
+        background: $topBarControlBackground;
+        color: $topBarColor;
+        line-height: 50%;
+        font-size: 80%;
+    } */
+}
+ 
